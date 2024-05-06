@@ -6,7 +6,7 @@ import random;
 # Variables
 me_quiere = random.randint(1, 15);
 ultimo_mensaje = "";
-
+#Este e sun ocmentariooooo
 print("\n.::¡Bienvenido a Calfún's Planet THE GAME!::.\n");
 #Preguntamos al usuario si quiere jugar o no
 respuesta = input("¿Quieres jugar? (s/n): ");
